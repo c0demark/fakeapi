@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "name": "xyz",
+      "name": "xyz"
     },
     {
-      "name": "abc",
-    },
+      "name": "abc"
+    }
   ]
 }
